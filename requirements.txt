@@ -1,3 +1,5 @@
--–upgrade pip
-pip install fastapi
-pip install "uvicorn[standard]" 
+fastapi
+uvicorn[standard]
+pandas
+sklearn
+
